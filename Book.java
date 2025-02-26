@@ -8,3 +8,7 @@ Book()
 title="Beyond the story"
 author="BTS and Kang Myeong Seok"
 }
+public void DisplayDetails(String title,String author)
+  {
+    System.out.println("title");
+    System.out.println("")
