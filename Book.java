@@ -10,5 +10,9 @@ author="BTS and Kang Myeong Seok"
 }
 public void DisplayDetails(String title,String author)
   {
-    System.out.println("title");
-    System.out.println("")
+    System.out.println("Title:"+title);
+    System.out.println("Author:"+author);
+  }
+
+
+  public static
